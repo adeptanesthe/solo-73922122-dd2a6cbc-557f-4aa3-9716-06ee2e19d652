@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+tmp_proto/
+*.out
+examples/demo/*/result.json
+examples/demo/*/result.png
